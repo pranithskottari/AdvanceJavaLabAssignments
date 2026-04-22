@@ -33,6 +33,12 @@ PerformanceTest_2b https://github.com/user-attachments/assets/61990aac-c2ff-46c8
 StringHandling_3a https://github.com/user-attachments/assets/291160aa-fff7-4108-979f-0d25f019ace8
 StringHandling_3a https://github.com/user-attachments/assets/eeba88a2-7733-413f-a35b-93e02530fdf4
 
+3ba stringbuilder https://github.com/user-attachments/assets/a6cec14d-268f-40e4-8710-f07ebf5c7fec
+
+
+
+
+
 
 
 
