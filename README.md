@@ -25,6 +25,11 @@ p10_output https://github.com/user-attachments/assets/68e49fa5-ee7e-4c43-9566-55
 
 ListInterfaceDemo_output https://github.com/user-attachments/assets/01b2f8d1-b52a-41c4-9b09-4b9371a9639d
 
+StringHandlingDemo_output1 https://github.com/user-attachments/assets/291160aa-fff7-4108-979f-0d25f019ace8
+StringHandlingDemo_output2 https://github.com/user-attachments/assets/eeba88a2-7733-413f-a35b-93e02530fdf4
+
+
+
 
 
 
