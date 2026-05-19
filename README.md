@@ -55,14 +55,18 @@ TabbedPanecolor      https://github.com/user-attachments/assets/c384e1cc-ae2b-49
 
 
 
+factorial calculator     https://github.com/user-attachments/assets/6eeb9a58-d0bc-4f3a-854c-1a629caa0723
 
+
+
+cooki    https://github.com/user-attachments/assets/a284e56e-00d8-436e-a2f9-300058c34ad8
+
+
+CookieServlet   https://github.com/user-attachments/assets/5f7f9af9-951f-4296-98d4-81b8b885dd22
 
 
  
-
-
-
-
+8a   https://github.com/user-attachments/assets/809d3eb6-e225-414c-bfd5-851e98cd8795
 
 
 
