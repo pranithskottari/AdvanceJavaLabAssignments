@@ -51,6 +51,10 @@ countrycapitallist   https://github.com/user-attachments/assets/f08c57a7-7d50-40
                      https://github.com/user-attachments/assets/c325d873-5637-4a06-8300-fc1f40a892a3
 
 
+TabbedPanecolor      https://github.com/user-attachments/assets/c384e1cc-ae2b-49a4-b292-0b80b98746a7
+
+
+
 
 
 
