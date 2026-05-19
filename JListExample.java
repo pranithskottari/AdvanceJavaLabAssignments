@@ -7,36 +7,36 @@ import javax.swing.JScrollPane;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 public class JListExample extends JFrame{
-	private JList&lt;String&gt; countryList;
+	private JList<String> countryList;
 	public JListExample() {
 	//create the model and add elements
-	DefaultListModel&lt;String&gt; listModel = new DefaultListModel&lt;&gt;();
-	listModel.addElement(&quot;USA&quot;);
-	listModel.addElement(&quot;India&quot;);
-	listModel.addElement(&quot;Vietnam&quot;);
-	listModel.addElement(&quot;Canada&quot;);
-	listModel.addElement(&quot;Denmark&quot;);
-	listModel.addElement(&quot;France&quot;);
-	listModel.addElement(&quot;Great Britain&quot;);
-	listModel.addElement(&quot;Japan&quot;);
-	listModel.addElement(&quot;Africa&quot;);
-	listModel.addElement(&quot;Greenland&quot;);
-	listModel.addElement(&quot;Singapore&quot;);
-	listModel.addElement(&quot;&quot;);
+	DefaultListModel<String> listModel = new DefaultListModel<>();
+	listModel.addElement("USA");
+	listModel.addElement("India");
+	listModel.addElement("Vietnam");
+	listModel.addElement("Canada");
+	listModel.addElement("Denmark");
+	listModel.addElement("France");
+	listModel.addElement("Great Britain");
+	listModel.addElement("Japan");
+	listModel.addElement("Africa");
+	listModel.addElement("Greenland");
+	listModel.addElement("Singapore");
+	listModel.addElement("");
 	//create the list
-	countryList = new JList&lt;&gt;(listModel);
+	countryList = new JList<>(listModel);
 	countryList.addListSelectionListener(new ListSelectionListener() {
 	@Override
 	public void valueChanged(ListSelectionEvent e) {
 	if (!e.getValueIsAdjusting()) {
-	final List&lt;String&gt; selectedValuesList = countryList.getSelectedValuesList();
+	final List<String> selectedValuesList = countryList.getSelectedValuesList();
 	System.out.println(selectedValuesList);
 	}
 	}
 	});
 	add(new JScrollPane(countryList));
 	this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	this.setTitle(&quot;JList Example&quot;);
+	this.setTitle("JList Example");
 	this.setSize(200, 200);
 	this.setLocationRelativeTo(null);
 	this.setVisible(true);
